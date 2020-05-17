@@ -11,11 +11,12 @@ For the Installation , if you want to do PR (pull request) you can setup your en
 ## Usage
 **How to use this App Project ?**
 1. First you must clone this repository ```git clone https://github.com/ryanda9910/BacaBerita.git ```
-2. Use ```yarn install``` or ```npm install``` for installing all dependencies on this project
-3. After that , you also need ```yarn start``` if you using yarn or if you using npm you can use ```npm start``` or ```expo start```  for running the project 
-4. Choose Emulator that you want to running on this project, if you on MacOS you can choose **IOS simulator** or if you on Windows or Linux , you can use **Android Emulator**  **Nb: for Android Emulator i recomended you to choose Android System ≤ 6.0 or higher** 
-5. And if you want to run the test just use ```yarn test``` and it will be run the test that i created before
-6. Happy to run this project into your machine 😃 😃 😃 😃.........
+2  After clone the repository  use ```cd BacaBeritaApps``` to change directory projects
+3. Use ```yarn install``` or ```npm install``` for installing all dependencies on this project
+4. After that , you also need ```yarn start``` if you using yarn or if you using npm you can use ```npm start``` or ```expo start```  for running the project 
+5. Choose Emulator that you want to running on this project, if you on MacOS you can choose **IOS simulator** or if you on Windows or Linux , you can use **Android Emulator**  **Nb: for Android Emulator i recomended you to choose Android System ≤ 6.0 or higher** 
+6. And if you want to run the test just use ```yarn test``` and it will be run the test that i created before
+7. Happy to run this project into your machine 😃 😃 😃 😃.........
 
 
 
