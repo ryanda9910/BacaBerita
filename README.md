@@ -46,6 +46,10 @@ For the Installation , if you want to do PR (pull request) you can setup your en
 
 ![Baca Berita Apps On Android](/AndroidBacaBerita/ShowCaseAndroid.png)
 
+## Demo Apps
+**You can see the quick demo of the apps in link below**
+[DEMO](https://youtu.be/FNYkD_mPiDc)
+
 
 ## License
 
