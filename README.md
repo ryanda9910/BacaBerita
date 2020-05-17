@@ -12,7 +12,7 @@ For the Installation , if you want to do PR (pull request) you can setup your en
 **How to use this App Project ?**
 1.  First you must clone this repository ```git clone https://github.com/ryanda9910/BacaBerita.git ```
 
-2.  After clone the repository  use ```cd newsApp``` to change directory projects
+2.  After clone the repository  use ```cd BacaBerita``` to change directory projects
 
 3.  Use ```yarn install``` or ```npm install``` for installing all dependencies on this project
 
