@@ -16,7 +16,7 @@ For the Installation , if you want to do PR (pull request) you can setup your en
 4. After that , you also need ```yarn start``` if you using yarn or if you using npm you can use ```npm start``` or ```expo start```  for running the project 
 5. Choose Emulator that you want to running on this project, if you on MacOS you can choose **IOS simulator** or if you on Windows or Linux , you can use **Android Emulator**  **Nb: for Android Emulator i recomended you to choose Android System ≤ 6.0 or higher** 
 6. And if you want to run the test just use ```yarn test``` and it will be run the test that i created before
-7. Happy to run this project into your machine 😃 😃 😃 😃
+7. Happy to run this project into your machine 😃 😃 😃 😃.........
 
 
 
